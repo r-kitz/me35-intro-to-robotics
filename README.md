@@ -10,6 +10,10 @@ Follow my journey (along with my partners!) to learn to build a walking dog robo
 ### Communicating over the Internet
 - (5) IoT Dashboard
 - (6) Crazy Car Race
+
+### MIDTERM
+Combining path planning, MQTT communication, and creativity!
+
 ### Image Processing
 - (7) Follow the Red Ball
 - (8) Mirror
