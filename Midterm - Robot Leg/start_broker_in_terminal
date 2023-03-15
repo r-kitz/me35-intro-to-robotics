@@ -1,0 +1,2 @@
+cd Downloads\mosquitto
+mosquitto -v -c mosquitto_old.conf
